@@ -1,2 +1,3 @@
-# publishing
-How to publish interactive data science projects on the web
+# Reading list
+Articles summarising data science models and applications. Good for references and knowledge refresh time and again.
+
